@@ -1,0 +1,34 @@
+{
+  "_fv": 77,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Welcome to Simple Drills",
+    "achievementDescription": "Start a world with Simple Drills!",
+    "achievementIcon": {
+      "value": "CUSTOM:IronDrill"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": false,
+    "announceToChat": false,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "IronDrillRecipe",
+      "GoldDrillRecipe",
+      "EmeraldDrillRecipe",
+      "DiamondDrillRecipe",
+      "NetheriteDrillRecipe",
+      "MultiDrillRecipe",
+      "CopperDrillRecipe",
+      "AmethystDrillRecipe",
+      "SculkDrillRecipe"
+    ],
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "story/root"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"tick\" x=\"76\" y=\"23\"/><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"dimension_entered\" x=\"45\" y=\"90\"><field name=\"dimension\">Surface</field></block></next></block></xml>"
+  }
+}

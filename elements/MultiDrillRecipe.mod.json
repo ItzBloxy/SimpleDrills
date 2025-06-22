@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IronDrill"
+      },
+      {
+        "value": "CUSTOM:GoldDrill"
+      },
+      {
+        "value": "CUSTOM:DiamondDrill"
+      },
+      {
+        "value": "CUSTOM:EmeraldDrill"
+      },
+      {
+        "value": "CUSTOM:NetheriteDrill"
+      },
+      {
+        "value": "CUSTOM:CopperDrill"
+      },
+      {
+        "value": "CUSTOM:AmethystDrill"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MultiDrill"
+    },
+    "name": "multi_drill_recipe",
+    "namespace": "mod"
+  }
+}

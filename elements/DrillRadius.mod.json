@@ -1,0 +1,12 @@
+{
+  "_fv": 77,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Number",
+    "displayName": "drillRadius",
+    "description": "Radius of the blocks the drill breaks",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 3
+  }
+}
