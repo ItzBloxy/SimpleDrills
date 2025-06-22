@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "simpledrills",
+  "version": "1.5.0",
+  "name": "SimpleDrills",
+  "description": "Adds Simple Tier-Based Drills to Minecraft!",
+  "authors": [
+    "BloxyMath, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "icon": "assets/simpledrills/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.simpledrills.SimpledrillsMod"
+    ],
+    "client": [
+      "net.mcreator.simpledrills.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "simpledrills.mixins.json"
+  ]
+}

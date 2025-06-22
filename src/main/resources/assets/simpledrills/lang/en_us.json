@@ -1,0 +1,15 @@
+{
+  "item.simpledrills.copper_drill": "Copper Drill",
+  "item.simpledrills.amethyst_drill": "Amethyst Drill",
+  "item.simpledrills.multi_drill": "Multi Drill",
+  "gamerule.drillRadius": "drillRadius",
+  "item.simpledrills.emerald_drill": "Emerald Drill",
+  "gamerule.drillRadius.description": "Radius of the blocks the drill breaks",
+  "item.simpledrills.diamond_drill": "Diamond Drill",
+  "item.simpledrills.gold_drill": "Gold Drill",
+  "item.simpledrills.iron_drill": "Iron Drill",
+  "advancements.simple_drills.descr": "Start a world with Simple Drills!",
+  "advancements.simple_drills.title": "Welcome to Simple Drills",
+  "item.simpledrills.netherite_drill": "Netherite Drill",
+  "item.simpledrills.sculk_drill": "Sculk Drill"
+}

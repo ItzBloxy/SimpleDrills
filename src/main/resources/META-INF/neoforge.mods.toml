@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="simpledrills"
+version="1.6.2"
+displayName="SimpleDrills"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="BloxyMath, MCreator"
+description="Adds Simple Tier-Based Drills to Minecraft!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.simpledrills]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.4.123,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.simpledrills]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

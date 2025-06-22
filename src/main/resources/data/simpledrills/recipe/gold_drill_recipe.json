@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot",
+    "b": "minecraft:gold_block",
+    "c": "#minecraft:planks"
+  },
+  "result": {
+    "id": "simpledrills:gold_drill",
+    "count": 1
+  }
+}

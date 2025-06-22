@@ -1,0 +1,15 @@
+{
+  "item.simpledrills.copper_drill": "Kobber Drill",
+  "item.simpledrills.amethyst_drill": "Amethyst Drill",
+  "item.simpledrills.multi_drill": "Multi Drill",
+  "gamerule.drillRadius": "drillRadius",
+  "item.simpledrills.emerald_drill": "Emerald Drill",
+  "gamerule.drillRadius.description": "Radius af blocksne drillen miner",
+  "item.simpledrills.diamond_drill": "Diamant Drill",
+  "item.simpledrills.gold_drill": "Guld Drill",
+  "item.simpledrills.iron_drill": "Jern Drill",
+  "advancements.simple_drills.descr": "Start en verden med SImple Drills!",
+  "advancements.simple_drills.title": "Velkommen til Simple Drills!",
+  "item.simpledrills.netherite_drill": "Netherite Drill",
+  "item.simpledrills.sculk_drill": "Sculk Drill"
+}

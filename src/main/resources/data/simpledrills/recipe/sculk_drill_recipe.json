@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "b  "
+  ],
+  "key": {
+    "a": "minecraft:echo_shard",
+    "b": "#minecraft:planks"
+  },
+  "result": {
+    "id": "simpledrills:sculk_drill",
+    "count": 1
+  }
+}

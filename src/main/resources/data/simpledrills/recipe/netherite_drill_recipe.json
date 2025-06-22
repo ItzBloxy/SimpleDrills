@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "simpledrills:diamond_drill",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "simpledrills:netherite_drill"
+  }
+}

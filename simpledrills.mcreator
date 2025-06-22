@@ -1,0 +1,537 @@
+{
+  "mod_elements": [
+    {
+      "name": "IronDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/items/iron_drill.json",
+          "src/main/resources/assets/simpledrills/models/item/iron_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/IronDrillItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GoldDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_drill",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/simpledrills/item/GoldDrillItem.java",
+          "src/main/resources/assets/simpledrills/models/item/gold_drill.json",
+          "src/main/resources/assets/simpledrills/items/gold_drill.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/items/emerald_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/EmeraldDrillItem.java",
+          "src/main/resources/assets/simpledrills/models/item/emerald_drill.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/diamond_drill.json",
+          "src/main/resources/assets/simpledrills/items/diamond_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/DiamondDrillItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/netherite_drill.json",
+          "src/main/resources/assets/simpledrills/items/netherite_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/NetheriteDrillItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MultiDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "multi_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/multi_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/MultiDrillItem.java",
+          "src/main/resources/assets/simpledrills/items/multi_drill.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/copper_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/CopperDrillItem.java",
+          "src/main/resources/assets/simpledrills/items/copper_drill.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/amethyst_drill.json",
+          "src/main/resources/assets/simpledrills/items/amethyst_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/AmethystDrillItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IronDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/iron_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/gold_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/emerald_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/diamond_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/netherite_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MultiDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "multi_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/multi_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/copper_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AmethystDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/amethyst_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SculkDrill",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculk_drill",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/simpledrills/models/item/sculk_drill.json",
+          "src/main/java/net/mcreator/simpledrills/item/SculkDrillItem.java",
+          "src/main/resources/assets/simpledrills/items/sculk_drill.json"
+        ]
+      }
+    },
+    {
+      "name": "SculkDrillRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculk_drill_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/recipe/sculk_drill_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SimpleDrills",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "simple_drills",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/simpledrills/advancement/simple_drills.json"
+        ]
+      }
+    },
+    {
+      "name": "WelcomeToSimpleDrills",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "welcome_to_simple_drills",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/simpledrills/procedures/WelcomeToSimpleDrillsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DrillRadius",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drill_radius",
+      "metadata": {
+        "files": [],
+        "type": "number"
+      }
+    },
+    {
+      "name": "FortuneDrillProcedure",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fortune_drill_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/simpledrills/procedures/FortuneDrillProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DrillProcedure",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "drill_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/simpledrills/procedures/DrillProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:simpledrills:netherite_drill_repair_items": [
+      "~Items.NETHERITE_INGOT"
+    ],
+    "BLOCKS:mod:emerald_ores": [
+      "Blocks.EMERALD_ORE",
+      "Blocks.DEEPSLATE_EMERALD_ORE"
+    ],
+    "BLOCKS:mod:coal_ores": [
+      "Blocks.COAL_ORE",
+      "Blocks.DEEPSLATE_COAL_ORE"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:SculkDrill",
+      "~CUSTOM:AmethystDrill",
+      "~CUSTOM:CopperDrill",
+      "~CUSTOM:MultiDrill",
+      "~CUSTOM:NetheriteDrill",
+      "~CUSTOM:DiamondDrill",
+      "~CUSTOM:EmeraldDrill",
+      "~CUSTOM:GoldDrill",
+      "~CUSTOM:IronDrill"
+    ],
+    "BLOCKS:mod:redstone_ores": [
+      "Blocks.REDSTONE_ORE",
+      "Blocks.LIT_REDSTONE_ORE",
+      "Blocks.DEEPSLATE_REDSTONE_ORE"
+    ],
+    "ITEMS:simpledrills:diamond_drill_repair_items": [
+      "~Items.DIAMOND",
+      "~Blocks.DIAMOND_BLOCK"
+    ],
+    "ITEMS:simpledrills:iron_drill_repair_items": [
+      "~Items.IRON_INGOT",
+      "~Items.RAW_IRON",
+      "~Blocks.IRON_BLOCK"
+    ],
+    "BLOCKS:mod:nether_quartz": [
+      "Blocks.QUARTZ_ORE"
+    ],
+    "ITEMS:simpledrills:amethyst_drill_repair_items": [
+      "~Items.NETHERITE_INGOT",
+      "~Items.GOLD_INGOT",
+      "~Items.COPPER_INGOT",
+      "~Items.IRON_INGOT",
+      "~Items.AMETHYST_SHARD"
+    ],
+    "ITEMS:simpledrills:sculk_drill_repair_items": [
+      "~Items.ECHO_SHARD",
+      "~Items.DIAMOND",
+      "~Items.EMERALD",
+      "~Items.NETHERITE_INGOT",
+      "~Items.GOLD_INGOT",
+      "~Items.COPPER_INGOT",
+      "~Items.IRON_INGOT"
+    ],
+    "BLOCKS:mod:iron_ores": [
+      "Blocks.IRON_ORE",
+      "Blocks.DEEPSLATE_IRON_ORE"
+    ],
+    "ITEMS:simpledrills:emerald_drill_repair_items": [
+      "~Items.EMERALD",
+      "~Blocks.EMERALD_BLOCK"
+    ],
+    "BLOCKS:mod:nether_gold": [
+      "Blocks.NETHER_GOLD_ORE"
+    ],
+    "ITEMS:simpledrills:multi_drill_repair_items": [
+      "~Items.EMERALD",
+      "~Items.DIAMOND",
+      "~Items.NETHERITE_INGOT",
+      "~Items.GOLD_INGOT",
+      "~Items.COPPER_INGOT",
+      "~Items.IRON_INGOT"
+    ],
+    "BLOCKS:mod:gold_ores": [
+      "Blocks.GOLD_ORE",
+      "Blocks.DEEPSLATE_GOLD_ORE"
+    ],
+    "BLOCKS:mod:lapiz_ores": [
+      "Blocks.LAPIS_ORE",
+      "Blocks.DEEPSLATE_LAPIS_ORE"
+    ],
+    "ITEMS:simpledrills:gold_drill_repair_items": [
+      "~Items.GOLD_INGOT",
+      "~Items.RAW_GOLD",
+      "~Blocks.GOLD_BLOCK"
+    ],
+    "BLOCKS:mod:diamond_ores": [
+      "Blocks.DIAMOND_ORE",
+      "Blocks.DEEPSLATE_DIAMOND_ORE"
+    ],
+    "ITEMS:simpledrills:copper_drill_repair_items": [
+      "~Items.COPPER_INGOT",
+      "~Items.RAW_COPPER"
+    ],
+    "BLOCKS:mod:copper_ores": [
+      "Blocks.COPPER_ORE",
+      "Blocks.DEEPSLATE_COPPER_ORE"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.simpledrills.copper_drill": "Copper Drill",
+      "item.simpledrills.amethyst_drill": "Amethyst Drill",
+      "item.simpledrills.multi_drill": "Multi Drill",
+      "gamerule.drillRadius": "drillRadius",
+      "item.simpledrills.emerald_drill": "Emerald Drill",
+      "gamerule.drillRadius.description": "Radius of the blocks the drill breaks",
+      "item.simpledrills.diamond_drill": "Diamond Drill",
+      "item.simpledrills.gold_drill": "Gold Drill",
+      "item.simpledrills.iron_drill": "Iron Drill",
+      "advancements.simple_drills.descr": "Start a world with Simple Drills!",
+      "advancements.simple_drills.title": "Welcome to Simple Drills",
+      "item.simpledrills.netherite_drill": "Netherite Drill",
+      "item.simpledrills.sculk_drill": "Sculk Drill"
+    },
+    "da_dk": {
+      "item.simpledrills.copper_drill": "Kobber Drill",
+      "item.simpledrills.amethyst_drill": "Amethyst Drill",
+      "item.simpledrills.multi_drill": "Multi Drill",
+      "gamerule.drillRadius": "drillRadius",
+      "item.simpledrills.emerald_drill": "Emerald Drill",
+      "gamerule.drillRadius.description": "Radius af blocksne drillen miner",
+      "item.simpledrills.diamond_drill": "Diamant Drill",
+      "item.simpledrills.gold_drill": "Guld Drill",
+      "item.simpledrills.iron_drill": "Jern Drill",
+      "advancements.simple_drills.descr": "Start en verden med SImple Drills!",
+      "advancements.simple_drills.title": "Velkommen til Simple Drills!",
+      "item.simpledrills.netherite_drill": "Netherite Drill",
+      "item.simpledrills.sculk_drill": "Sculk Drill"
+    },
+    "zh_cn": {
+      "item.simpledrills.copper_drill": "铜钻头",
+      "item.simpledrills.amethyst_drill": "紫水晶钻头",
+      "item.simpledrills.multi_drill": "多种钻头",
+      "gamerule.drillRadius": "drillRadius",
+      "item.simpledrills.emerald_drill": "绿宝石钻头",
+      "gamerule.drillRadius.description": "Radius of the blocks the drill breaks",
+      "item.simpledrills.diamond_drill": "钻石钻头",
+      "item.simpledrills.gold_drill": "金钻头",
+      "item.simpledrills.iron_drill": "铁钻头",
+      "advancements.simple_drills.descr": "Start a world with Simple Drills!",
+      "advancements.simple_drills.title": "Welcome to Simple Drills",
+      "item.simpledrills.netherite_drill": "下界合金钻头",
+      "item.simpledrills.sculk_drill": "Sculk Drill"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "simpledrills",
+    "modName": "SimpleDrills",
+    "version": "1.6.2",
+    "description": "Adds Simple Tier-Based Drills to Minecraft!",
+    "author": "BloxyMath, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "simpledrillslogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.simpledrills"
+  },
+  "mcreatorVersion": 202500113416
+}

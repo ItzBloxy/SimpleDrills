@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:iron_block",
+    "c": "#minecraft:planks"
+  },
+  "result": {
+    "id": "simpledrills:iron_drill",
+    "count": 1
+  }
+}

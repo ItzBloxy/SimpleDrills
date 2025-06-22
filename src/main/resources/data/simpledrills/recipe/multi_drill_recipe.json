@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "simpledrills:iron_drill",
+    "simpledrills:gold_drill",
+    "simpledrills:diamond_drill",
+    "simpledrills:emerald_drill",
+    "simpledrills:netherite_drill",
+    "simpledrills:copper_drill",
+    "simpledrills:amethyst_drill"
+  ],
+  "result": {
+    "id": "simpledrills:multi_drill",
+    "count": 1
+  }
+}

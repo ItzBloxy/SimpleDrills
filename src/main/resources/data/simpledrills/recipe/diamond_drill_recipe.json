@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": "minecraft:diamond",
+    "b": "minecraft:diamond_block",
+    "c": "#minecraft:planks"
+  },
+  "result": {
+    "id": "simpledrills:diamond_drill",
+    "count": 1
+  }
+}

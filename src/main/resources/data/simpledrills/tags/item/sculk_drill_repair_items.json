@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:echo_shard",
+    "minecraft:diamond",
+    "minecraft:emerald",
+    "minecraft:netherite_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:iron_ingot"
+  ]
+}

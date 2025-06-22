@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "b": "minecraft:amethyst_block",
+    "c": "#minecraft:planks"
+  },
+  "result": {
+    "id": "simpledrills:amethyst_drill",
+    "count": 1
+  }
+}

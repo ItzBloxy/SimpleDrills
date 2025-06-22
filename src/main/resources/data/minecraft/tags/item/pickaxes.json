@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "simpledrills:sculk_drill",
+    "simpledrills:amethyst_drill",
+    "simpledrills:copper_drill",
+    "simpledrills:multi_drill",
+    "simpledrills:netherite_drill",
+    "simpledrills:diamond_drill",
+    "simpledrills:emerald_drill",
+    "simpledrills:gold_drill",
+    "simpledrills:iron_drill"
+  ]
+}
